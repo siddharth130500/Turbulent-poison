@@ -9,3 +9,4 @@ To test the poison points by mixing them with the training data and evaluating o
 ```sh
   python poison_turb1.2.py --poison_train
 ```
+The code was run on ACESipu, where the data is located.
