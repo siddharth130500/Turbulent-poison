@@ -1,0 +1,1330 @@
+Loading dataset
+Defining model
+Performing the Bi-level optimization
+Epoch 1/10, Batches 3/3, Loss: 3.594623
+Epoch 6/10, Batches 3/3, Loss: 1.223259
+Epoch 10/10, Batches 3/3, Loss: 1.049444
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 0, Cost: 1.7723
+Epoch 1/10, Batches 3/3, Loss: 22.412863
+Epoch 6/10, Batches 3/3, Loss: 5.388227
+Epoch 10/10, Batches 3/3, Loss: 4.321139
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 1, Cost: 6.6718
+Epoch 1/10, Batches 3/3, Loss: nan
+Epoch 6/10, Batches 3/3, Loss: nan
+Epoch 10/10, Batches 3/3, Loss: nan
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.976910
+Epoch 6/10, Batches 3/3, Loss: 1.463646
+Epoch 10/10, Batches 3/3, Loss: 1.344894
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 0, Cost: 2.0286
+Epoch 1/10, Batches 3/3, Loss: 13.905303
+Epoch 6/10, Batches 3/3, Loss: 4.652773
+Epoch 10/10, Batches 3/3, Loss: 3.794109
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 1, Cost: 5.6776
+Epoch 1/10, Batches 3/3, Loss: 60.719814
+Epoch 6/10, Batches 3/3, Loss: 17.679752
+Epoch 10/10, Batches 3/3, Loss: 14.648658
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.314397
+Epoch 6/10, Batches 3/3, Loss: 0.969953
+Epoch 10/10, Batches 3/3, Loss: 0.927989
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 0, Cost: 1.4926
+Epoch 1/10, Batches 3/3, Loss: 11.973736
+Epoch 6/10, Batches 3/3, Loss: 3.423040
+Epoch 10/10, Batches 3/3, Loss: 2.815710
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 1, Cost: 4.5195
+Epoch 1/10, Batches 3/3, Loss: 52.273285
+Epoch 6/10, Batches 3/3, Loss: 14.469479
+Epoch 10/10, Batches 3/3, Loss: 12.342145
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.020855
+Epoch 6/10, Batches 3/3, Loss: 1.164804
+Epoch 10/10, Batches 3/3, Loss: 1.076345
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 0, Cost: 1.5849
+Epoch 1/10, Batches 3/3, Loss: 6.821644
+Epoch 6/10, Batches 3/3, Loss: 2.844856
+Epoch 10/10, Batches 3/3, Loss: 2.398926
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 1, Cost: 3.6894
+Epoch 1/10, Batches 3/3, Loss: 26.787724
+Epoch 6/10, Batches 3/3, Loss: 9.143117
+Epoch 10/10, Batches 3/3, Loss: 7.548605
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 1, Iteration: 2, Cost: 11.0250
+Epoch 1/10, Batches 3/3, Loss: 2.626533
+Epoch 6/10, Batches 3/3, Loss: 1.224248
+Epoch 10/10, Batches 3/3, Loss: 1.107313
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 2, Iteration: 0, Cost: 1.6895
+Epoch 1/10, Batches 3/3, Loss: 14.138747
+Epoch 6/10, Batches 3/3, Loss: 4.546901
+Epoch 10/10, Batches 3/3, Loss: 3.727522
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 2, Iteration: 1, Cost: 5.7323
+Epoch 1/10, Batches 3/3, Loss: 55.143703
+Epoch 6/10, Batches 3/3, Loss: 16.709885
+Epoch 10/10, Batches 3/3, Loss: 13.862140
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 2, Iteration: 2, Cost: 19.5348
+Epoch 1/10, Batches 3/3, Loss: 2.267194
+Epoch 6/10, Batches 3/3, Loss: 0.970871
+Epoch 10/10, Batches 3/3, Loss: 0.893654
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 3, Iteration: 0, Cost: 1.3316
+Epoch 1/10, Batches 3/3, Loss: 9.661795
+Epoch 6/10, Batches 3/3, Loss: 3.445448
+Epoch 10/10, Batches 3/3, Loss: 2.909699
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 3, Iteration: 1, Cost: 4.1839
+Epoch 1/10, Batches 3/3, Loss: 38.065411
+Epoch 6/10, Batches 3/3, Loss: 12.933904
+Epoch 10/10, Batches 3/3, Loss: 10.760141
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 3, Iteration: 2, Cost: 14.6877
+Epoch 1/10, Batches 3/3, Loss: 2.564961
+Epoch 6/10, Batches 3/3, Loss: 1.122139
+Epoch 10/10, Batches 3/3, Loss: 0.965770
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 4, Iteration: 0, Cost: 1.4568
+Epoch 1/10, Batches 3/3, Loss: 10.424880
+Epoch 6/10, Batches 3/3, Loss: 3.692249
+Epoch 10/10, Batches 3/3, Loss: 3.048567
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 4, Iteration: 1, Cost: 4.5014
+Epoch 1/10, Batches 3/3, Loss: 45.789429
+Epoch 6/10, Batches 3/3, Loss: 14.109714
+Epoch 10/10, Batches 3/3, Loss: 11.965468
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.257034
+Epoch 6/10, Batches 3/3, Loss: 1.014966
+Epoch 10/10, Batches 3/3, Loss: 0.972869
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 4, Iteration: 0, Cost: 1.4072
+Epoch 1/10, Batches 3/3, Loss: 12.125560
+Epoch 6/10, Batches 3/3, Loss: 3.218353
+Epoch 10/10, Batches 3/3, Loss: 2.698586
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 4, Iteration: 1, Cost: 4.2186
+Epoch 1/10, Batches 3/3, Loss: 25.583458
+Epoch 6/10, Batches 3/3, Loss: 12.582846
+Epoch 10/10, Batches 3/3, Loss: 11.121459
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 4, Iteration: 2, Cost: 15.2918
+Epoch 1/10, Batches 3/3, Loss: 3.097316
+Epoch 6/10, Batches 3/3, Loss: 1.325444
+Epoch 10/10, Batches 3/3, Loss: 1.254590
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 5, Iteration: 0, Cost: 1.9781
+Epoch 1/10, Batches 3/3, Loss: 12.366059
+Epoch 6/10, Batches 3/3, Loss: 4.546225
+Epoch 10/10, Batches 3/3, Loss: 3.761698
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 5, Iteration: 1, Cost: 5.6923
+Epoch 1/10, Batches 3/3, Loss: 47.916100
+Epoch 6/10, Batches 3/3, Loss: 15.792883
+Epoch 10/10, Batches 3/3, Loss: 13.558103
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 4.062008
+Epoch 6/10, Batches 3/3, Loss: 1.729466
+Epoch 10/10, Batches 3/3, Loss: 1.519691
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 5, Iteration: 0, Cost: 2.5992
+Epoch 1/10, Batches 3/3, Loss: 17.457321
+Epoch 6/10, Batches 3/3, Loss: 5.976571
+Epoch 10/10, Batches 3/3, Loss: 4.957355
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 5, Iteration: 1, Cost: 8.0547
+Epoch 1/10, Batches 3/3, Loss: 83.675766
+Epoch 6/10, Batches 3/3, Loss: 23.590931
+Epoch 10/10, Batches 3/3, Loss: 19.704901
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 3.290290
+Epoch 6/10, Batches 3/3, Loss: 1.280591
+Epoch 10/10, Batches 3/3, Loss: 1.099178
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 5, Iteration: 0, Cost: 1.6224
+Epoch 1/10, Batches 3/3, Loss: 18.347996
+Epoch 6/10, Batches 3/3, Loss: 5.548697
+Epoch 10/10, Batches 3/3, Loss: 4.663145
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 5, Iteration: 1, Cost: 6.5737
+Epoch 1/10, Batches 3/3, Loss: 41.915619
+Epoch 6/10, Batches 3/3, Loss: 18.836065
+Epoch 10/10, Batches 3/3, Loss: 16.655834
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 5, Iteration: 2, Cost: 22.3470
+Epoch 1/10, Batches 3/3, Loss: 2.283252
+Epoch 6/10, Batches 3/3, Loss: 1.250083
+Epoch 10/10, Batches 3/3, Loss: 1.116683
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 6, Iteration: 0, Cost: 1.8146
+Epoch 1/10, Batches 3/3, Loss: 9.390395
+Epoch 6/10, Batches 3/3, Loss: 3.328672
+Epoch 10/10, Batches 3/3, Loss: 2.809322
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 6, Iteration: 1, Cost: 4.5005
+Epoch 1/10, Batches 3/3, Loss: 37.124973
+Epoch 6/10, Batches 3/3, Loss: 12.445615
+Epoch 10/10, Batches 3/3, Loss: 10.040804
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 6, Iteration: 2, Cost: 15.0339
+Epoch 1/10, Batches 3/3, Loss: 1.986739
+Epoch 6/10, Batches 3/3, Loss: 0.863829
+Epoch 10/10, Batches 3/3, Loss: 0.866780
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 7, Iteration: 0, Cost: 1.2678
+Epoch 1/10, Batches 3/3, Loss: 9.985154
+Epoch 6/10, Batches 3/3, Loss: 3.172329
+Epoch 10/10, Batches 3/3, Loss: 2.598734
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 7, Iteration: 1, Cost: 3.8788
+Epoch 1/10, Batches 3/3, Loss: 40.118385
+Epoch 6/10, Batches 3/3, Loss: 12.445536
+Epoch 10/10, Batches 3/3, Loss: 9.937234
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 7, Iteration: 2, Cost: 14.1223
+Epoch 1/10, Batches 3/3, Loss: 3.309888
+Epoch 6/10, Batches 3/3, Loss: 1.285239
+Epoch 10/10, Batches 3/3, Loss: 1.281635
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 8, Iteration: 0, Cost: 1.9306
+Epoch 1/10, Batches 3/3, Loss: 17.642956
+Epoch 6/10, Batches 3/3, Loss: 5.028812
+Epoch 10/10, Batches 3/3, Loss: 4.013290
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 8, Iteration: 1, Cost: 6.1908
+Epoch 1/10, Batches 3/3, Loss: 26.835762
+Epoch 6/10, Batches 3/3, Loss: 13.692913
+Epoch 10/10, Batches 3/3, Loss: 12.556046
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 8, Iteration: 2, Cost: 16.0641
+Epoch 1/10, Batches 3/3, Loss: 2.368239
+Epoch 6/10, Batches 3/3, Loss: 0.968252
+Epoch 10/10, Batches 3/3, Loss: 0.832827
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 9, Iteration: 0, Cost: 1.2755
+Epoch 1/10, Batches 3/3, Loss: 12.213473
+Epoch 6/10, Batches 3/3, Loss: 3.625018
+Epoch 10/10, Batches 3/3, Loss: 3.019867
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 9, Iteration: 1, Cost: 4.6666
+Epoch 1/10, Batches 3/3, Loss: 56.789894
+Epoch 6/10, Batches 3/3, Loss: 16.145760
+Epoch 10/10, Batches 3/3, Loss: 13.132067
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.991197
+Epoch 6/10, Batches 3/3, Loss: 0.988074
+Epoch 10/10, Batches 3/3, Loss: 0.844090
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 9, Iteration: 0, Cost: 1.4443
+Epoch 1/10, Batches 3/3, Loss: 8.288252
+Epoch 6/10, Batches 3/3, Loss: 2.761781
+Epoch 10/10, Batches 3/3, Loss: 2.278862
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 9, Iteration: 1, Cost: 3.6921
+Epoch 1/10, Batches 3/3, Loss: 38.050068
+Epoch 6/10, Batches 3/3, Loss: 10.874312
+Epoch 10/10, Batches 3/3, Loss: 9.268789
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 9, Iteration: 2, Cost: 13.9095
+Epoch 1/10, Batches 3/3, Loss: 1.636712
+Epoch 6/10, Batches 3/3, Loss: 0.790142
+Epoch 10/10, Batches 3/3, Loss: 0.751423
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 10, Iteration: 0, Cost: 1.1419
+Epoch 1/10, Batches 3/3, Loss: 8.310105
+Epoch 6/10, Batches 3/3, Loss: 2.410681
+Epoch 10/10, Batches 3/3, Loss: 1.971835
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 10, Iteration: 1, Cost: 3.4497
+Epoch 1/10, Batches 3/3, Loss: 38.333088
+Epoch 6/10, Batches 3/3, Loss: 10.551333
+Epoch 10/10, Batches 3/3, Loss: 8.692825
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 10, Iteration: 2, Cost: 13.3181
+Epoch 1/10, Batches 3/3, Loss: 2.129404
+Epoch 6/10, Batches 3/3, Loss: 1.194953
+Epoch 10/10, Batches 3/3, Loss: 1.045557
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 11, Iteration: 0, Cost: 1.6613
+Epoch 1/10, Batches 3/3, Loss: 8.330675
+Epoch 6/10, Batches 3/3, Loss: 2.954859
+Epoch 10/10, Batches 3/3, Loss: 2.628247
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 11, Iteration: 1, Cost: 4.0978
+Epoch 1/10, Batches 3/3, Loss: 32.847347
+Epoch 6/10, Batches 3/3, Loss: 10.598190
+Epoch 10/10, Batches 3/3, Loss: 8.804100
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 11, Iteration: 2, Cost: 12.8478
+Epoch 1/10, Batches 3/3, Loss: 2.544226
+Epoch 6/10, Batches 3/3, Loss: 1.116444
+Epoch 10/10, Batches 3/3, Loss: 1.010953
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 12, Iteration: 0, Cost: 1.4730
+Epoch 1/10, Batches 3/3, Loss: 12.669842
+Epoch 6/10, Batches 3/3, Loss: 3.905585
+Epoch 10/10, Batches 3/3, Loss: 3.233741
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 12, Iteration: 1, Cost: 4.6737
+Epoch 1/10, Batches 3/3, Loss: 55.243732
+Epoch 6/10, Batches 3/3, Loss: 15.993237
+Epoch 10/10, Batches 3/3, Loss: 13.651517
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 3.560274
+Epoch 6/10, Batches 3/3, Loss: 1.275827
+Epoch 10/10, Batches 3/3, Loss: 1.146276
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 12, Iteration: 0, Cost: 1.9918
+Epoch 1/10, Batches 3/3, Loss: 18.585310
+Epoch 6/10, Batches 3/3, Loss: 5.574832
+Epoch 10/10, Batches 3/3, Loss: 4.544733
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 12, Iteration: 1, Cost: 7.5523
+Epoch 1/10, Batches 3/3, Loss: 77.226013
+Epoch 6/10, Batches 3/3, Loss: 22.522215
+Epoch 10/10, Batches 3/3, Loss: 18.969044
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 3.290944
+Epoch 6/10, Batches 3/3, Loss: 1.288828
+Epoch 10/10, Batches 3/3, Loss: 1.069626
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 12, Iteration: 0, Cost: 1.8262
+Epoch 1/10, Batches 3/3, Loss: 13.612790
+Epoch 6/10, Batches 3/3, Loss: 4.737346
+Epoch 10/10, Batches 3/3, Loss: 3.768543
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 12, Iteration: 1, Cost: 6.0017
+Epoch 1/10, Batches 3/3, Loss: 40.260895
+Epoch 6/10, Batches 3/3, Loss: 16.159065
+Epoch 10/10, Batches 3/3, Loss: 14.098993
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 12, Iteration: 2, Cost: 19.8432
+Epoch 1/10, Batches 3/3, Loss: 4.643730
+Epoch 6/10, Batches 3/3, Loss: 1.620179
+Epoch 10/10, Batches 3/3, Loss: 1.453931
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 0, Cost: 2.4194
+Epoch 1/10, Batches 3/3, Loss: 24.502937
+Epoch 6/10, Batches 3/3, Loss: 7.428951
+Epoch 10/10, Batches 3/3, Loss: 5.931944
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 1, Cost: 9.2008
+Epoch 1/10, Batches 3/3, Loss: nan
+Epoch 6/10, Batches 3/3, Loss: nan
+Epoch 10/10, Batches 3/3, Loss: nan
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.475165
+Epoch 6/10, Batches 3/3, Loss: 0.656373
+Epoch 10/10, Batches 3/3, Loss: 0.610644
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 0, Cost: 0.9565
+Epoch 1/10, Batches 3/3, Loss: 10.401923
+Epoch 6/10, Batches 3/3, Loss: 2.577741
+Epoch 10/10, Batches 3/3, Loss: 1.961585
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 1, Cost: 3.2947
+Epoch 1/10, Batches 3/3, Loss: 49.622059
+Epoch 6/10, Batches 3/3, Loss: 13.192060
+Epoch 10/10, Batches 3/3, Loss: 10.518888
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 3.379116
+Epoch 6/10, Batches 3/3, Loss: 1.350289
+Epoch 10/10, Batches 3/3, Loss: 1.212278
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 0, Cost: 1.8201
+Epoch 1/10, Batches 3/3, Loss: 13.044771
+Epoch 6/10, Batches 3/3, Loss: 4.764628
+Epoch 10/10, Batches 3/3, Loss: 3.953438
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 1, Cost: 5.9688
+Epoch 1/10, Batches 3/3, Loss: 57.368706
+Epoch 6/10, Batches 3/3, Loss: 17.884392
+Epoch 10/10, Batches 3/3, Loss: 14.891586
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.723514
+Epoch 6/10, Batches 3/3, Loss: 0.850767
+Epoch 10/10, Batches 3/3, Loss: 0.843468
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 0, Cost: 1.3110
+Epoch 1/10, Batches 3/3, Loss: 8.356620
+Epoch 6/10, Batches 3/3, Loss: 2.446100
+Epoch 10/10, Batches 3/3, Loss: 2.011020
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 1, Cost: 3.2391
+Epoch 1/10, Batches 3/3, Loss: 45.024818
+Epoch 6/10, Batches 3/3, Loss: 11.632570
+Epoch 10/10, Batches 3/3, Loss: 9.368885
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.326604
+Epoch 6/10, Batches 3/3, Loss: 0.762320
+Epoch 10/10, Batches 3/3, Loss: 0.749604
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 0, Cost: 1.1666
+Epoch 1/10, Batches 3/3, Loss: 6.783701
+Epoch 6/10, Batches 3/3, Loss: 1.985833
+Epoch 10/10, Batches 3/3, Loss: 1.670221
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 1, Cost: 2.6723
+Epoch 1/10, Batches 3/3, Loss: 30.814852
+Epoch 6/10, Batches 3/3, Loss: 8.171598
+Epoch 10/10, Batches 3/3, Loss: 6.586266
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 13, Iteration: 2, Cost: 9.7897
+Epoch 1/10, Batches 3/3, Loss: 0.775895
+Epoch 6/10, Batches 3/3, Loss: 0.584154
+Epoch 10/10, Batches 3/3, Loss: 0.552124
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 14, Iteration: 0, Cost: 0.8122
+Epoch 1/10, Batches 3/3, Loss: 2.802823
+Epoch 6/10, Batches 3/3, Loss: 0.924930
+Epoch 10/10, Batches 3/3, Loss: 0.796383
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 14, Iteration: 1, Cost: 1.3700
+Epoch 1/10, Batches 3/3, Loss: 12.428915
+Epoch 6/10, Batches 3/3, Loss: 3.351656
+Epoch 10/10, Batches 3/3, Loss: 2.798838
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 14, Iteration: 2, Cost: 4.3531
+Epoch 1/10, Batches 3/3, Loss: 2.612318
+Epoch 6/10, Batches 3/3, Loss: 1.167622
+Epoch 10/10, Batches 3/3, Loss: 1.074533
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 15, Iteration: 0, Cost: 1.5389
+Epoch 1/10, Batches 3/3, Loss: 15.780417
+Epoch 6/10, Batches 3/3, Loss: 4.633039
+Epoch 10/10, Batches 3/3, Loss: 3.739902
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 15, Iteration: 1, Cost: 5.5494
+Epoch 1/10, Batches 3/3, Loss: 45.299225
+Epoch 6/10, Batches 3/3, Loss: 17.407736
+Epoch 10/10, Batches 3/3, Loss: 15.213402
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 15, Iteration: 2, Cost: 20.9993
+Epoch 1/10, Batches 3/3, Loss: 2.490387
+Epoch 6/10, Batches 3/3, Loss: 1.199743
+Epoch 10/10, Batches 3/3, Loss: 1.013965
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 16, Iteration: 0, Cost: 1.5395
+Epoch 1/10, Batches 3/3, Loss: 10.586541
+Epoch 6/10, Batches 3/3, Loss: 3.684126
+Epoch 10/10, Batches 3/3, Loss: 3.081905
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 16, Iteration: 1, Cost: 4.5937
+Epoch 1/10, Batches 3/3, Loss: 39.483387
+Epoch 6/10, Batches 3/3, Loss: 12.977085
+Epoch 10/10, Batches 3/3, Loss: 10.921515
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 16, Iteration: 2, Cost: 15.1503
+Epoch 1/10, Batches 3/3, Loss: 2.625276
+Epoch 6/10, Batches 3/3, Loss: 1.058138
+Epoch 10/10, Batches 3/3, Loss: 0.936141
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 17, Iteration: 0, Cost: 1.4905
+Epoch 1/10, Batches 3/3, Loss: 13.692492
+Epoch 6/10, Batches 3/3, Loss: 4.191444
+Epoch 10/10, Batches 3/3, Loss: 3.318737
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 17, Iteration: 1, Cost: 5.2879
+Epoch 1/10, Batches 3/3, Loss: 63.199844
+Epoch 6/10, Batches 3/3, Loss: 18.239693
+Epoch 10/10, Batches 3/3, Loss: 15.129479
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.246557
+Epoch 6/10, Batches 3/3, Loss: 1.086219
+Epoch 10/10, Batches 3/3, Loss: 0.966115
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 17, Iteration: 0, Cost: 1.5585
+Epoch 1/10, Batches 3/3, Loss: 10.772270
+Epoch 6/10, Batches 3/3, Loss: 3.400630
+Epoch 10/10, Batches 3/3, Loss: 2.886935
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 17, Iteration: 1, Cost: 4.6495
+Epoch 1/10, Batches 3/3, Loss: 44.860847
+Epoch 6/10, Batches 3/3, Loss: 13.116544
+Epoch 10/10, Batches 3/3, Loss: 10.944406
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.813307
+Epoch 6/10, Batches 3/3, Loss: 1.253185
+Epoch 10/10, Batches 3/3, Loss: 1.210646
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 17, Iteration: 0, Cost: 1.8640
+Epoch 1/10, Batches 3/3, Loss: 12.310994
+Epoch 6/10, Batches 3/3, Loss: 4.279771
+Epoch 10/10, Batches 3/3, Loss: 3.577013
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 17, Iteration: 1, Cost: 5.2895
+Epoch 1/10, Batches 3/3, Loss: 49.776291
+Epoch 6/10, Batches 3/3, Loss: 16.258020
+Epoch 10/10, Batches 3/3, Loss: 13.726213
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 17, Iteration: 2, Cost: 18.5417
+Epoch 1/10, Batches 3/3, Loss: 2.206140
+Epoch 6/10, Batches 3/3, Loss: 1.096099
+Epoch 10/10, Batches 3/3, Loss: 0.975364
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 18, Iteration: 0, Cost: 1.5410
+Epoch 1/10, Batches 3/3, Loss: 8.528382
+Epoch 6/10, Batches 3/3, Loss: 3.029787
+Epoch 10/10, Batches 3/3, Loss: 2.497491
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 18, Iteration: 1, Cost: 4.1077
+Epoch 1/10, Batches 3/3, Loss: 34.388256
+Epoch 6/10, Batches 3/3, Loss: 10.741357
+Epoch 10/10, Batches 3/3, Loss: 8.880516
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 18, Iteration: 2, Cost: 13.2644
+Epoch 1/10, Batches 3/3, Loss: 3.253123
+Epoch 6/10, Batches 3/3, Loss: 1.435003
+Epoch 10/10, Batches 3/3, Loss: 1.282285
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 19, Iteration: 0, Cost: 2.1402
+Epoch 1/10, Batches 3/3, Loss: 10.995256
+Epoch 6/10, Batches 3/3, Loss: 4.383186
+Epoch 10/10, Batches 3/3, Loss: 3.753411
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 19, Iteration: 1, Cost: 6.2598
+Epoch 1/10, Batches 3/3, Loss: 44.422123
+Epoch 6/10, Batches 3/3, Loss: 14.370491
+Epoch 10/10, Batches 3/3, Loss: 11.768810
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 0.987005
+Epoch 6/10, Batches 3/3, Loss: 0.525482
+Epoch 10/10, Batches 3/3, Loss: 0.554839
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 19, Iteration: 0, Cost: 0.7698
+Epoch 1/10, Batches 3/3, Loss: 9.627361
+Epoch 6/10, Batches 3/3, Loss: 1.816491
+Epoch 10/10, Batches 3/3, Loss: 1.428715
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 19, Iteration: 1, Cost: 2.3334
+Epoch 1/10, Batches 3/3, Loss: 45.662193
+Epoch 6/10, Batches 3/3, Loss: 8.591265
+Epoch 10/10, Batches 3/3, Loss: 6.935884
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 19, Iteration: 2, Cost: 10.5629
+Epoch 1/10, Batches 3/3, Loss: 2.448748
+Epoch 6/10, Batches 3/3, Loss: 1.130704
+Epoch 10/10, Batches 3/3, Loss: 0.968924
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 20, Iteration: 0, Cost: 1.6462
+Epoch 1/10, Batches 3/3, Loss: 10.197302
+Epoch 6/10, Batches 3/3, Loss: 3.294359
+Epoch 10/10, Batches 3/3, Loss: 2.835934
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 20, Iteration: 1, Cost: 4.5991
+Epoch 1/10, Batches 3/3, Loss: 47.115753
+Epoch 6/10, Batches 3/3, Loss: 13.579599
+Epoch 10/10, Batches 3/3, Loss: 10.930477
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.449023
+Epoch 6/10, Batches 3/3, Loss: 0.933538
+Epoch 10/10, Batches 3/3, Loss: 0.841670
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 20, Iteration: 0, Cost: 1.2940
+Epoch 1/10, Batches 3/3, Loss: 13.473708
+Epoch 6/10, Batches 3/3, Loss: 3.775954
+Epoch 10/10, Batches 3/3, Loss: 2.929377
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 20, Iteration: 1, Cost: 4.5268
+Epoch 1/10, Batches 3/3, Loss: 35.863262
+Epoch 6/10, Batches 3/3, Loss: 15.134790
+Epoch 10/10, Batches 3/3, Loss: 13.336378
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 20, Iteration: 2, Cost: 17.7339
+Epoch 1/10, Batches 3/3, Loss: 3.226712
+Epoch 6/10, Batches 3/3, Loss: 1.243501
+Epoch 10/10, Batches 3/3, Loss: 1.093061
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 0, Cost: 1.7326
+Epoch 1/10, Batches 3/3, Loss: 23.132736
+Epoch 6/10, Batches 3/3, Loss: 5.572631
+Epoch 10/10, Batches 3/3, Loss: 4.471530
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 1, Cost: 7.0110
+Epoch 1/10, Batches 3/3, Loss: nan
+Epoch 6/10, Batches 3/3, Loss: nan
+Epoch 10/10, Batches 3/3, Loss: nan
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.865537
+Epoch 6/10, Batches 3/3, Loss: 1.105951
+Epoch 10/10, Batches 3/3, Loss: 0.912069
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 0, Cost: 1.5121
+Epoch 1/10, Batches 3/3, Loss: 13.749260
+Epoch 6/10, Batches 3/3, Loss: 4.305604
+Epoch 10/10, Batches 3/3, Loss: 3.580096
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 1, Cost: 5.5975
+Epoch 1/10, Batches 3/3, Loss: 62.018753
+Epoch 6/10, Batches 3/3, Loss: 18.590576
+Epoch 10/10, Batches 3/3, Loss: 15.265029
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.256819
+Epoch 6/10, Batches 3/3, Loss: 1.085608
+Epoch 10/10, Batches 3/3, Loss: 0.952647
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 0, Cost: 1.4892
+Epoch 1/10, Batches 3/3, Loss: 9.995392
+Epoch 6/10, Batches 3/3, Loss: 3.366401
+Epoch 10/10, Batches 3/3, Loss: 2.777525
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 1, Cost: 4.1809
+Epoch 1/10, Batches 3/3, Loss: 43.929539
+Epoch 6/10, Batches 3/3, Loss: 12.669958
+Epoch 10/10, Batches 3/3, Loss: 10.034760
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.672168
+Epoch 6/10, Batches 3/3, Loss: 0.834491
+Epoch 10/10, Batches 3/3, Loss: 0.853142
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 0, Cost: 1.1547
+Epoch 1/10, Batches 3/3, Loss: 8.222587
+Epoch 6/10, Batches 3/3, Loss: 2.367164
+Epoch 10/10, Batches 3/3, Loss: 2.012766
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 1, Cost: 2.9304
+Epoch 1/10, Batches 3/3, Loss: 39.182999
+Epoch 6/10, Batches 3/3, Loss: 10.614336
+Epoch 10/10, Batches 3/3, Loss: 8.718517
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.172794
+Epoch 6/10, Batches 3/3, Loss: 1.016970
+Epoch 10/10, Batches 3/3, Loss: 0.924128
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 0, Cost: 1.5087
+Epoch 1/10, Batches 3/3, Loss: 10.144192
+Epoch 6/10, Batches 3/3, Loss: 3.313025
+Epoch 10/10, Batches 3/3, Loss: 2.832895
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 1, Cost: 4.4229
+Epoch 1/10, Batches 3/3, Loss: 38.428173
+Epoch 6/10, Batches 3/3, Loss: 12.274326
+Epoch 10/10, Batches 3/3, Loss: 10.147407
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 21, Iteration: 2, Cost: 14.8150
+Epoch 1/10, Batches 3/3, Loss: 4.122914
+Epoch 6/10, Batches 3/3, Loss: 1.601703
+Epoch 10/10, Batches 3/3, Loss: 1.502913
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 22, Iteration: 0, Cost: 2.2172
+Epoch 1/10, Batches 3/3, Loss: 18.842096
+Epoch 6/10, Batches 3/3, Loss: 6.783330
+Epoch 10/10, Batches 3/3, Loss: 5.782127
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 22, Iteration: 1, Cost: 8.2446
+Epoch 1/10, Batches 3/3, Loss: 21.219067
+Epoch 6/10, Batches 3/3, Loss: 12.643608
+Epoch 10/10, Batches 3/3, Loss: 11.585196
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 22, Iteration: 2, Cost: 15.4093
+Epoch 1/10, Batches 3/3, Loss: 2.597577
+Epoch 6/10, Batches 3/3, Loss: 1.023843
+Epoch 10/10, Batches 3/3, Loss: 1.013852
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 23, Iteration: 0, Cost: 1.3887
+Epoch 1/10, Batches 3/3, Loss: 14.875961
+Epoch 6/10, Batches 3/3, Loss: 3.944594
+Epoch 10/10, Batches 3/3, Loss: 3.097379
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 23, Iteration: 1, Cost: 4.7240
+Epoch 1/10, Batches 3/3, Loss: 31.732944
+Epoch 6/10, Batches 3/3, Loss: 14.945547
+Epoch 10/10, Batches 3/3, Loss: 13.027833
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 23, Iteration: 2, Cost: 17.1061
+Epoch 1/10, Batches 3/3, Loss: 2.934729
+Epoch 6/10, Batches 3/3, Loss: 1.231078
+Epoch 10/10, Batches 3/3, Loss: 1.136391
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 24, Iteration: 0, Cost: 1.4681
+Epoch 1/10, Batches 3/3, Loss: 14.917540
+Epoch 6/10, Batches 3/3, Loss: 4.974815
+Epoch 10/10, Batches 3/3, Loss: 4.208056
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 24, Iteration: 1, Cost: 5.7005
+Epoch 1/10, Batches 3/3, Loss: 59.297714
+Epoch 6/10, Batches 3/3, Loss: 18.172165
+Epoch 10/10, Batches 3/3, Loss: 15.154962
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 3.753509
+Epoch 6/10, Batches 3/3, Loss: 1.395420
+Epoch 10/10, Batches 3/3, Loss: 1.238829
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 24, Iteration: 0, Cost: 2.0126
+Epoch 1/10, Batches 3/3, Loss: 16.577806
+Epoch 6/10, Batches 3/3, Loss: 5.751416
+Epoch 10/10, Batches 3/3, Loss: 4.647649
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 24, Iteration: 1, Cost: 7.1733
+Epoch 1/10, Batches 3/3, Loss: 69.187881
+Epoch 6/10, Batches 3/3, Loss: 22.090145
+Epoch 10/10, Batches 3/3, Loss: 18.949751
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.115001
+Epoch 6/10, Batches 3/3, Loss: 0.738155
+Epoch 10/10, Batches 3/3, Loss: 0.732805
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 24, Iteration: 0, Cost: 1.0612
+Epoch 1/10, Batches 3/3, Loss: 6.878611
+Epoch 6/10, Batches 3/3, Loss: 1.895606
+Epoch 10/10, Batches 3/3, Loss: 1.600044
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 24, Iteration: 1, Cost: 2.3805
+Epoch 1/10, Batches 3/3, Loss: 31.028997
+Epoch 6/10, Batches 3/3, Loss: 7.720737
+Epoch 10/10, Batches 3/3, Loss: 6.408107
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 24, Iteration: 2, Cost: 8.9597
+Epoch 1/10, Batches 3/3, Loss: 3.439929
+Epoch 6/10, Batches 3/3, Loss: 1.303437
+Epoch 10/10, Batches 3/3, Loss: 1.185236
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 0, Cost: 1.8326
+Epoch 1/10, Batches 3/3, Loss: 18.906229
+Epoch 6/10, Batches 3/3, Loss: 5.743537
+Epoch 10/10, Batches 3/3, Loss: 4.727412
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 1, Cost: 7.1859
+Epoch 1/10, Batches 3/3, Loss: 621823066112.000000
+Epoch 6/10, Batches 3/3, Loss: nan
+Epoch 10/10, Batches 3/3, Loss: nan
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.154914
+Epoch 6/10, Batches 3/3, Loss: 1.031748
+Epoch 10/10, Batches 3/3, Loss: 0.910632
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 0, Cost: 1.4966
+Epoch 1/10, Batches 3/3, Loss: 9.867374
+Epoch 6/10, Batches 3/3, Loss: 2.853781
+Epoch 10/10, Batches 3/3, Loss: 2.502952
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 1, Cost: 4.1622
+Epoch 1/10, Batches 3/3, Loss: 47.759754
+Epoch 6/10, Batches 3/3, Loss: 12.778072
+Epoch 10/10, Batches 3/3, Loss: 10.414392
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.431505
+Epoch 6/10, Batches 3/3, Loss: 1.212829
+Epoch 10/10, Batches 3/3, Loss: 1.116256
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 0, Cost: 1.7418
+Epoch 1/10, Batches 3/3, Loss: 13.388402
+Epoch 6/10, Batches 3/3, Loss: 3.955415
+Epoch 10/10, Batches 3/3, Loss: 3.173049
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 1, Cost: 5.2424
+Epoch 1/10, Batches 3/3, Loss: 57.451775
+Epoch 6/10, Batches 3/3, Loss: 16.400768
+Epoch 10/10, Batches 3/3, Loss: 13.541903
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.982810
+Epoch 6/10, Batches 3/3, Loss: 0.975985
+Epoch 10/10, Batches 3/3, Loss: 0.933983
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 0, Cost: 1.3337
+Epoch 1/10, Batches 3/3, Loss: 10.505404
+Epoch 6/10, Batches 3/3, Loss: 2.850436
+Epoch 10/10, Batches 3/3, Loss: 2.538380
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 1, Cost: 3.6740
+Epoch 1/10, Batches 3/3, Loss: 50.356564
+Epoch 6/10, Batches 3/3, Loss: 13.518785
+Epoch 10/10, Batches 3/3, Loss: 11.170115
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.606244
+Epoch 6/10, Batches 3/3, Loss: 1.109128
+Epoch 10/10, Batches 3/3, Loss: 1.061966
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 0, Cost: 1.6311
+Epoch 1/10, Batches 3/3, Loss: 10.998445
+Epoch 6/10, Batches 3/3, Loss: 3.821085
+Epoch 10/10, Batches 3/3, Loss: 3.105171
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 1, Cost: 4.9543
+Epoch 1/10, Batches 3/3, Loss: 45.797977
+Epoch 6/10, Batches 3/3, Loss: 14.190117
+Epoch 10/10, Batches 3/3, Loss: 11.838968
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 25, Iteration: 2, Cost: 17.2615
+Epoch 1/10, Batches 3/3, Loss: 1.726000
+Epoch 6/10, Batches 3/3, Loss: 0.796610
+Epoch 10/10, Batches 3/3, Loss: 0.758953
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 0, Cost: 1.2189
+Epoch 1/10, Batches 3/3, Loss: 8.620131
+Epoch 6/10, Batches 3/3, Loss: 2.500014
+Epoch 10/10, Batches 3/3, Loss: 2.017757
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 1, Cost: 3.3341
+Epoch 1/10, Batches 3/3, Loss: 44.574192
+Epoch 6/10, Batches 3/3, Loss: 11.061705
+Epoch 10/10, Batches 3/3, Loss: 9.241877
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.140211
+Epoch 6/10, Batches 3/3, Loss: 1.073716
+Epoch 10/10, Batches 3/3, Loss: 1.115967
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 0, Cost: 1.5759
+Epoch 1/10, Batches 3/3, Loss: 11.254466
+Epoch 6/10, Batches 3/3, Loss: 3.419294
+Epoch 10/10, Batches 3/3, Loss: 2.637773
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 1, Cost: 4.3460
+Epoch 1/10, Batches 3/3, Loss: 50.026875
+Epoch 6/10, Batches 3/3, Loss: 14.672983
+Epoch 10/10, Batches 3/3, Loss: 11.749508
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.604466
+Epoch 6/10, Batches 3/3, Loss: 0.818663
+Epoch 10/10, Batches 3/3, Loss: 0.822556
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 0, Cost: 1.2032
+Epoch 1/10, Batches 3/3, Loss: 11.626205
+Epoch 6/10, Batches 3/3, Loss: 2.868763
+Epoch 10/10, Batches 3/3, Loss: 2.279760
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 1, Cost: 3.4721
+Epoch 1/10, Batches 3/3, Loss: 49.595097
+Epoch 6/10, Batches 3/3, Loss: 12.512341
+Epoch 10/10, Batches 3/3, Loss: 10.172331
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 3.847053
+Epoch 6/10, Batches 3/3, Loss: 1.310851
+Epoch 10/10, Batches 3/3, Loss: 1.084393
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 0, Cost: 1.8204
+Epoch 1/10, Batches 3/3, Loss: 20.803448
+Epoch 6/10, Batches 3/3, Loss: 5.754811
+Epoch 10/10, Batches 3/3, Loss: 4.637221
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 1, Cost: 7.4355
+Epoch 1/10, Batches 3/3, Loss: 1918463639552.000000
+Epoch 6/10, Batches 3/3, Loss: nan
+Epoch 10/10, Batches 3/3, Loss: nan
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.112868
+Epoch 6/10, Batches 3/3, Loss: 0.879330
+Epoch 10/10, Batches 3/3, Loss: 0.848887
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 0, Cost: 1.2247
+Epoch 1/10, Batches 3/3, Loss: 10.505335
+Epoch 6/10, Batches 3/3, Loss: 2.934671
+Epoch 10/10, Batches 3/3, Loss: 2.346227
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 1, Cost: 3.4701
+Epoch 1/10, Batches 3/3, Loss: 24.102999
+Epoch 6/10, Batches 3/3, Loss: 11.902912
+Epoch 10/10, Batches 3/3, Loss: 10.602691
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 26, Iteration: 2, Cost: 13.7724
+Epoch 1/10, Batches 3/3, Loss: 1.509384
+Epoch 6/10, Batches 3/3, Loss: 0.767095
+Epoch 10/10, Batches 3/3, Loss: 0.766430
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 27, Iteration: 0, Cost: 1.1377
+Epoch 1/10, Batches 3/3, Loss: 7.601576
+Epoch 6/10, Batches 3/3, Loss: 2.458447
+Epoch 10/10, Batches 3/3, Loss: 2.093153
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 27, Iteration: 1, Cost: 3.0569
+Epoch 1/10, Batches 3/3, Loss: 30.688932
+Epoch 6/10, Batches 3/3, Loss: 9.378398
+Epoch 10/10, Batches 3/3, Loss: 7.557716
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 27, Iteration: 2, Cost: 10.5883
+Epoch 1/10, Batches 3/3, Loss: 2.000233
+Epoch 6/10, Batches 3/3, Loss: 1.057165
+Epoch 10/10, Batches 3/3, Loss: 0.933985
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 28, Iteration: 0, Cost: 1.4548
+Epoch 1/10, Batches 3/3, Loss: 6.612588
+Epoch 6/10, Batches 3/3, Loss: 2.855698
+Epoch 10/10, Batches 3/3, Loss: 2.415709
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 28, Iteration: 1, Cost: 3.4269
+Epoch 1/10, Batches 3/3, Loss: 24.197083
+Epoch 6/10, Batches 3/3, Loss: 8.920671
+Epoch 10/10, Batches 3/3, Loss: 7.358483
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 28, Iteration: 2, Cost: 10.0664
+Epoch 1/10, Batches 3/3, Loss: 2.006941
+Epoch 6/10, Batches 3/3, Loss: 1.010426
+Epoch 10/10, Batches 3/3, Loss: 0.978443
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 0, Cost: 1.5801
+Epoch 1/10, Batches 3/3, Loss: 10.150523
+Epoch 6/10, Batches 3/3, Loss: 3.071157
+Epoch 10/10, Batches 3/3, Loss: 2.514348
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 1, Cost: 3.9848
+Epoch 1/10, Batches 3/3, Loss: 42.885391
+Epoch 6/10, Batches 3/3, Loss: 11.771358
+Epoch 10/10, Batches 3/3, Loss: 9.751976
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 3.120153
+Epoch 6/10, Batches 3/3, Loss: 1.374206
+Epoch 10/10, Batches 3/3, Loss: 1.207922
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 0, Cost: 1.7311
+Epoch 1/10, Batches 3/3, Loss: 16.508661
+Epoch 6/10, Batches 3/3, Loss: 5.413416
+Epoch 10/10, Batches 3/3, Loss: 4.535057
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 1, Cost: 6.2269
+Epoch 1/10, Batches 3/3, Loss: 62.956551
+Epoch 6/10, Batches 3/3, Loss: 18.180483
+Epoch 10/10, Batches 3/3, Loss: 15.465119
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.885073
+Epoch 6/10, Batches 3/3, Loss: 0.847034
+Epoch 10/10, Batches 3/3, Loss: 0.777584
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 0, Cost: 1.1820
+Epoch 1/10, Batches 3/3, Loss: 11.712214
+Epoch 6/10, Batches 3/3, Loss: 3.330806
+Epoch 10/10, Batches 3/3, Loss: 2.596246
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 1, Cost: 3.8882
+Epoch 1/10, Batches 3/3, Loss: 47.715870
+Epoch 6/10, Batches 3/3, Loss: 12.611865
+Epoch 10/10, Batches 3/3, Loss: 10.392761
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 1.556919
+Epoch 6/10, Batches 3/3, Loss: 0.779711
+Epoch 10/10, Batches 3/3, Loss: 0.750609
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 0, Cost: 1.1719
+Epoch 1/10, Batches 3/3, Loss: 8.974541
+Epoch 6/10, Batches 3/3, Loss: 2.277930
+Epoch 10/10, Batches 3/3, Loss: 1.840906
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point: 29, Iteration: 1, Cost: 3.2433
+Epoch 1/10, Batches 3/3, Loss: 49.143227
+Epoch 6/10, Batches 3/3, Loss: 11.386478
+Epoch 10/10, Batches 3/3, Loss: 9.208980
+Reverse Epoch 1/10
+Reverse Epoch 6/10
+Reverse Epoch 10/10
+Poisoning point discarded due to Nan values
+Epoch 1/10, Batches 3/3, Loss: 2.270411
+Epoch 6/10, Batches 3/3, Loss: 0.993209
+Epoch 10/10, Batches 3/3, Loss: 0.893893
+Reverse Epoch 1/10
